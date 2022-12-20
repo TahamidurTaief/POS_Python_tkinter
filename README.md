@@ -5,14 +5,13 @@ This management system is totaly completed with Python. It's fontend is done wit
 
 ## Screenshots
 
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223549.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223228.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223306.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223336.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223359.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223443.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223514.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223636.jpg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223549.jpg)
+![](https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223228.jpg)
+![](https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223336.jpg)
+![](https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223359.jpg)
+![](https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223443.jpg)
+![](https://github.com/TahamidurTaief/POS_Python_tkinter/blob/main/Screenshots/Screenshot%202022-12-20%20223514.jpg)
+
 
 
 ## 🛠 Skills
